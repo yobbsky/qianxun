@@ -1,0 +1,104 @@
+
+
+.second_demo{
+	background:#fff;width:1000px;margin:0 auto;overflow:hidden;
+}
+.second_demo .top{
+	overflow:hidden;height:auto;margin-top:20px;
+	}
+.second_demo .top .top_left{
+	float:left;width:100px;
+}
+.second_demo .top .top_menu{
+	width:800px;overflow:hidden;padding-top:40px;float:left;margin:0 auto;}
+.second_demo .top .top_menu ul{
+	overflow:hidden;
+}
+.second_demo .top .top_menu ul li{
+	float:left;list-style:none;font-size:18px;width:25%;
+	
+}
+.second_demo .top .top_menu ul li a{
+	float:left;list-style:none;color:#8f8f8f;font-size:18px;text-decoration:none;
+	
+}
+.second_demo .top .top_right{
+	float:right;overflow:hidden;padding-top:45px;width:100px;
+}
+.second_demo .top .top_right a{
+	text-decoration:none;color:#929292;font-size:14px;
+}
+.second_demo .top .picture{
+	width:1000px;overflow:hidden;
+}
+.second_demo .content{
+	overflow:hidden;margin-top:60px;
+}
+.second_demo .content .top_content ul{
+	overflow:hidden;width:1000px;
+}
+.second_demo .content .top_content ul li{
+	float:left;list-style: none;width:303px;
+}
+.second_demo .content .top_content ul{
+	margin-bottom:25px;margin-bottom:25px;
+}
+.second_demo .content .top_content a img{
+	margin-right:10px;
+}
+
+	
+.second_demo .content .top_content span{
+	font-size:18px;
+}
+.second_demo .content .top_content p{
+	font-size:14px;
+}
+.second_demo .content .top_content ul li img{
+	
+}
+
+
+.second_demo .content .content_bottom{
+	overflow:hidden;margin-top:40px;text-align:center;padding-bottom:120px;
+}
+.second_demo .content .content_bottom a{
+	font-size:14px;color:#afafaf;text-decoration:none;
+}
+.second_demo .content .content_bottom img{
+	margin-left:20px;
+}
+ .foot{
+	background:#1c1c1c;overflow:hidden;padding-top:40px;
+}
+.foot .mid{
+	width:1000px;overflow:hidden;margin:0 auto;
+}
+.foot .mid .foot_left{
+	float:left;overflow:hidden;width:33.3%;
+}
+ .foot .mid .foot_left ul {
+	overflow:hidden;
+}
+ .foot .mid .foot_left ul li{
+	margin-bottom:15px;
+}
+ .foot .mid .foot_mid{
+	width:33.3%;float:left;
+}
+ .foot .mid .foot_mid ul li{
+	margin-bottom:20px;
+	
+}
+ .foot .mid .foot_right{
+	float:left;width:33.3%;overflow:hidden;
+}
+.foot .mid .foot_right .foot_right_left{
+	float:left;margin-right:90px;
+}
+.foot .mid .foot_right .foot_right_right{
+	text-align:left;
+}
+
+
+
